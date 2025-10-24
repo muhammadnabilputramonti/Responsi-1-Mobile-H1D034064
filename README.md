@@ -29,3 +29,7 @@ Data yang tersimpan di LiveData kini siap untuk ditampilkan oleh Fragment di lap
 <video src="https://github.com/muhammadnabilputramonti/Responsi-1-Mobile-H1D034064/blob/main/Screenrecorder-2025-10-24-23-36-21-12.mp4" controls width="600">
   Browser kamu tidak mendukung video tag.
 </video>
+
+
+<video src="https://github.com/muhammadnabilputramonti/Responsi-1-Mobile-H1D034064/raw/main/Screenrecorder-2025-10-24-23-36-21-12.mp4" controls width="600">
+</video>

@@ -24,5 +24,7 @@ Data yang tersimpan di LiveData kini siap untuk ditampilkan oleh Fragment di lap
 - SquadFragment (Daftar Pemain):
   Mengakses list team.squad dari teamData.
   Data diteruskan ke PlayerAdapter (RecyclerView.Adapter).
+
+https://github.com/muhammadnabilputramonti/Responsi-1-Mobile-H1D034064/blob/main/Screenrecorder-2025-10-24-23-36-21-12.mp4
   Di dalam Adapter, logika when (player.position) digunakan untuk mengelompokkan sub-posisi (seperti "Left Winger" atau "Centre-Back") menjadi empat kategori utama (Forward, Midfielder, Defender, Goalkeeper).
   Berdasarkan kategori tersebut, CardView diberi warna latar belakang yang sesuai (Merah, Hijau, Biru, Kuning), memenuhi ketentuan responsi.

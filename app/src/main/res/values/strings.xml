@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023063</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sunderland_club_history">
+        "Sunderland Association Football Club, didirikan pada tahun 1879, adalah salah satu klub sepak bola tertua di Inggris. Dikenal sebagai 'The Black Cats,' mereka memiliki basis penggemar yang sangat setia. Stadion kandang mereka adalah Stadium of Light. Sunderland telah memenangkan Liga Inggris sebanyak enam kali, meskipun sebagian besar kesuksesan tersebut terjadi sebelum Perang Dunia II."
+    </string>
+    <string name="sunderland_club_history_full">
+        Sunderland Association Football Club didirikan pada tahun 1879 oleh guru sekolah James Allan. Klub ini segera dikenal sebagai "Team of All Talents" karena dominasi awal mereka di Football League. Sunderland memenangkan gelar Liga Inggris sebanyak enam kali, dengan tiga gelar pertama diraih berturut-turut pada tahun 1892, 1893, dan 1895, menandai periode kejayaan awal yang luar biasa di sepak bola Inggris.
+
+        Meskipun kesuksesan terbesar mereka terjadi pada abad ke-19 dan awal abad ke-20, Sunderland sempat menikmati momen kejayaan yang lebih baru dan tak terlupakan. Periode ini terjadi pada tahun 1973 ketika klub berhasil memenangkan FA Cup, salah satu trofi tertua dan paling bergengsi di dunia. Kemenangan ini sangat ikonik karena mereka berhasil mengalahkan tim favorit, Leeds United, dalam sebuah pertandingan yang dikenang sebagai salah satu kejutan terbesar di final kompetisi tersebut.
+
+        Di era modern, klub menghadapi beberapa tantangan. Mereka berpindah dari stadion bersejarah mereka ke markas baru, Stadium of Light, pada tahun 1997. Namun, klub sempat mengalami masa-masa sulit di tahun 2000-an. Terlepas dari pasang surutnya, Sunderland AFC tetap menjadi salah satu klub dengan basis penggemar paling setia di Inggris, dan warisan "The Black Cats" terus hidup.
+    </string>
+</resources>

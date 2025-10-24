@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.responsi1mobileh1d023063.ui.fragment.HomeFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_homeFragment_to_coachFragment"
+            app:destination="@id/coachFragment" />
+
+        <action
+            android:id="@+id/action_homeFragment_to_squadFragment"
+            app:destination="@id/squadFragment" />
+
+        <action
+            android:id="@+id/action_homeFragment_to_historyFragment"
+            app:destination="@id/historyFragment" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/coachFragment"
+        android:name="com.example.responsi1mobileh1d023063.ui.fragment.CoachFragment"
+        android:label="Coach"
+        tools:layout="@layout/fragment_coach" />
+
+    <fragment
+        android:id="@+id/squadFragment"
+        android:name="com.example.responsi1mobileh1d023063.ui.fragment.SquadFragment"
+        android:label="Squad"
+        tools:layout="@layout/fragment_squad" />
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.example.responsi1mobileh1d023063.ui.fragment.HistoryFragment"
+        android:label="Club History"
+        tools:layout="@layout/fragment_history" />
+
+</navigation>
